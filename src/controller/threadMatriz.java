@@ -53,7 +53,7 @@ public class threadMatriz extends Thread {
 			}
 		}
 		
-		System.out.println();
+		
 		for(int i = 0; i < 5; i++) {
 			soma += L2[i];
 		}
@@ -70,7 +70,7 @@ public class threadMatriz extends Thread {
 			}
 		}
 		
-		System.out.println();
+		
 		for(int i = 0; i < 5; i++) {
 			soma += L3[i];
 		}
